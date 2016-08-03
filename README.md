@@ -1,2 +1,2 @@
 # mimujia-mobile
-imglasses pf mimujia-mobile
+imglasses of mimujia-mobile
